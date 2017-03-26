@@ -1,1 +1,1 @@
-<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">xWeather.Droid</string></resources>
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">xWeather.Droid</string><string name="getWetherButton">Get wether report</string></resources>

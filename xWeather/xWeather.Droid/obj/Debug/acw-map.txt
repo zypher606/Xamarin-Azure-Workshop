@@ -1,0 +1,4 @@
+xWeather.Droid.MainActivity, xWeather.Droid;md545ecae144fc625578ea02185cd6a3d24.MainActivity
+xWeather.Droid.MainActivity, xWeather.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md545ecae144fc625578ea02185cd6a3d24.MainActivity
+xWeather.Droid.MainActivity;md545ecae144fc625578ea02185cd6a3d24.MainActivity
+xweather.droid.MainActivity;md545ecae144fc625578ea02185cd6a3d24.MainActivity
